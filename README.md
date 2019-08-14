@@ -153,9 +153,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594362)] Stereo Camera Localization in 3D LiDAR Maps. [__`pos.`__ __`oth.`__]
 - :star: [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594362)] Joint 3D Proposal Generation and Object Detection from View Aggregation. [__`det.`__] :star:
 - [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594318)] Joint Point Cloud and Image Based Localization for Efficient Inspection in Mixed Reality. [__`oth.`__]
-- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593910)] Edge and Corner Detection for Unorganized 3D Point Clouds with Application to Robotic Welding. [__`det.`__ __`oth.`__]
+- :star: [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593910)] Edge and Corner Detection for Unorganized 3D Point Clouds with Application to Robotic Welding. [__`det.`__ __`oth.`__]
 - [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594175)] NDVI Point Cloud Generator Tool Using Low-Cost RGB-D Sensor. [[code](https://github.com/CTTCGeoLab/VI_ROS)][__`oth.`__]
-- [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593837)] A 3D Convolutional Neural Network Towards Real-Time Amodal 3D Object Detection. [__`det.`__ __`pos.`__]
+- :star: [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593837)] A 3D Convolutional Neural Network Towards Real-Time Amodal 3D Object Detection. [__`det.`__ __`pos.`__]
 - [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594356)] Extracting Phenotypic Characteristics of Corn Crops Through the Use of Reconstructed 3D Models. [__`seg.`__ __`rec.`__]
 - [[IROS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594514)] PCAOT: A Manhattan Point Cloud Registration Method Towards Large Rotation and Small Overlap. [__`reg.`__]
 - 
